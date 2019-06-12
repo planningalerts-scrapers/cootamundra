@@ -6,6 +6,6 @@ raise "ATDIS feed is no longer available and development applications "\
      "See https://github.com/planningalerts-scrapers/cootamundra/issues/2"
 
 # ATDISPlanningAlertsFeed.save(
-#   "https://myhorizon.cgrc.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/",
+#   "http://myhorizon.cootamundra.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/",
 #   "Sydney"
 # )
